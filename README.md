@@ -65,7 +65,6 @@ G) Keep in Sync
 Regular syncing and validation reflect the book’s testing/quality mindset (Ruvalcaba & Boehm, 2022, ch. 2).
 
 
-
 References
 
 Part 2 — Glossary 
@@ -94,7 +93,9 @@ Part 2 — Glossary
 
 **Repository** — The project folder tracked by **GIT**, including files and full history (Git, n.d.).
 
+
 References
+
 Git. (n.d.). Downloads. https://git-scm.com/downloads
 
 GitHub. (n.d.). Creating a new repository. https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
